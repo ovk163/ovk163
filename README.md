@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ovk163
+- 👋 Hi, I’m Olga @ovk163
 - 👀 I’m interested in any new information in an Agile environment
 - 🌱 I’m currently learning Business Analysis in IT
 - 💞️ I’m looking to collaborate on a team project
